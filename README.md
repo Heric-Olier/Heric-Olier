@@ -9,6 +9,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heric_Olier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/heric-olier-36400b238)
 [![Web](https://img.shields.io/badge/Web-HericOlier.com-5f19dd?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://heric-olier-frontend-developer.netlify.app)
 
+---
+
+Soy estudiante de programacion, actualmente enfocado al desarrollo Web, me encanta codear y crear proyectos que sean funcionales y visualmente atractivos para una mejor experiencia de usuario.
+
+Soy Entusiasta, estoy super motivado a aprender cada día más, apasionado por este hermoso mundo de las IT, siempre dispuesto a aprender nuevas tecnologias, en busca de mi primer trabajo que me brinde la oportunidad de crecer y mejorar mis habilidades. Hace años atrás me dedique al diseño gráfico, ahora quiero enfocar toda mi energía en convertirme en Software Developer que es lo que realmente me apasiona.
+
+Siempre dispuesto al trabajo en equipo, full autodidacta y en aprendizaje continuo.
+
+
 <!--
 **Heric-Olier/Heric-Olier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
