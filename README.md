@@ -2,6 +2,7 @@
 ### Desarrollador Web Front-End.
 
 ![](https://i.imgur.com/HJ6rynX.png)
+---
 
 [![Twitter](https://img.shields.io/badge/Twitter-@heric_olier-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/heric_olier)
 [![Instagram](https://img.shields.io/badge/Instagram-@heric_olier-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/heric_olier)
