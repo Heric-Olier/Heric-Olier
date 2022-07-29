@@ -4,7 +4,7 @@
 ![](https://i.imgur.com/HJ6rynX.png)
 
 [![Twitter](https://img.shields.io/badge/Twitter-@heric_olier-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/heric_olier)
-[![LinkedIn](https://img.shields.io/badge//LinkedIn-Heric_Olier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/heric-olier-36400b238)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heric_Olier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/heric-olier-36400b238)
 
 <!--
 **Heric-Olier/Heric-Olier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
