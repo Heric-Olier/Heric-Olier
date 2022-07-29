@@ -1,7 +1,7 @@
 # Hola! Soy Heric Olier.
 ### Desarrollador Web Front-End.
 
-![](https://i.imgur.com/z3EnfMG.png)
+![](https://i.imgur.com/HJ6rynX.png)
 
 
 <!--
