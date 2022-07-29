@@ -1,6 +1,9 @@
 # Hola! Soy Heric Olier.
 ### Desarrollador Web Front-End.
 
+![](https://i.imgur.com/z3EnfMG.png)
+
+
 <!--
 **Heric-Olier/Heric-Olier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
