@@ -1,7 +1,7 @@
 # Hola! Soy Heric Olier.
 ### Desarrollador Web Front-End.
 
-![](https://i.imgur.com/YX3DMZ5.png)
+![](https://i.imgur.com/nH1FlgM.png)
 ---
 
 [![Twitter](https://img.shields.io/badge/Twitter-@heric_olier-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/heric_olier)
