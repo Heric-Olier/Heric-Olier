@@ -11,9 +11,9 @@
 
 ---
 
-Soy estudiante de programacion, actualmente enfocado al desarrollo Web, me encanta codear y crear proyectos que sean funcionales y visualmente atractivos para una mejor experiencia de usuario.
+Desarrollador Web Front-End, me encanta codear y crear proyectos que sean funcional y visualmente atractivos.
 
-Soy Entusiasta, estoy super motivado a aprender cada día más, apasionado por este hermoso mundo de las IT, siempre dispuesto a aprender nuevas tecnologias, en busca de mi primer trabajo que me brinde la oportunidad de crecer y mejorar mis habilidades. Hace años atrás me dedique al diseño gráfico, ahora quiero enfocar toda mi energía en convertirme en Software Developer que es lo que realmente me apasiona.
+Soy Entusiasta, estoy super motivado a aprender cada día más, apasionado por este hermoso mundo de las IT, siempre dispuesto a aprender nuevas tecnologias. Hace años atrás me dedique al diseño gráfico, ahora quiero enfocar toda mi energía en convertirme en Software Developer que es lo que realmente me apasiona.
 
 Siempre dispuesto al trabajo en equipo, full autodidacta y en aprendizaje continuo.
 
